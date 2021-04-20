@@ -2,6 +2,3 @@
 .vscode
 build
 yarn-error.log
-css
-webpack
-.babelrc
