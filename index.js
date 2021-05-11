@@ -1,4 +1,8 @@
-import './css/index.css';
-console.log("Boilerplate added!!");
+import { h, render } from 'preact';
+
+const App = () => {
+    return <div className="red">HIHIIHIH</div>
+}
 
 
+render(<App />, document.body);
